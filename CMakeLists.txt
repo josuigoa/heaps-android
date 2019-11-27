@@ -57,6 +57,7 @@ target_include_directories(fmt.hdll PRIVATE
 	hashlink/include/mikktspace
 	hashlink/include/vorbis
 	hashlink/include/zlib
+	hashlink/include/minimp3
 	${tj_include}
 )
 
